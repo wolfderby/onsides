@@ -124,3 +124,5 @@ celerybeat.pid
 
 # Temporary or environment-specific folders
 _onsides
+.snakemake
+_onsides_old
