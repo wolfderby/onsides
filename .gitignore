@@ -133,3 +133,6 @@ duck.db.wal
 umls-2024AB-mrconso.zip
 train/models
 train/results
+database/csv
+log
+database/onsides.db
